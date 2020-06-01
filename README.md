@@ -17,6 +17,7 @@ keras
 matplotlib  
 datetime  
 csv
+tensorflow
 ## 整理数据的命令
 将数据放入beijing_20140101-20141231文件夹后，需先运行打开终端输入：  
 cd 拖入下载的文件夹（2019312571-姚非凡-PM2.5预测）  
